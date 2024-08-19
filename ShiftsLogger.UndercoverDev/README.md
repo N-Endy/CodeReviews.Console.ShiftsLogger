@@ -5,7 +5,7 @@
 WorkerShifts is a comprehensive solution for managing worker shifts. It consists of two main components:
 
 1. WorkerShiftsAPI: A .NET Core Web API backend
-2. WorkerShiftsUI: A frontend application (likely a web or desktop app)
+2. WorkerShiftsUI: A frontend application (console)
 
 This project allows you to create, read, update, and delete workers and their shifts, providing a robust system for shift management.
 
